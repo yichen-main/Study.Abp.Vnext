@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<LangVersion>preview</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="7.4.4" />
+		<PackageReference Include="Volo.Abp.EntityFrameworkCore.PostgreSql" Version="7.4.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Frame.Domain\Frame.Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Volo.Abp.Data" />
+		<Using Include="Volo.Abp.Domain.Repositories.EntityFrameworkCore" />
+		<Using Include="Volo.Abp.EntityFrameworkCore" />
+		<Using Include="Volo.Abp.EntityFrameworkCore.Modeling" />
+		<Using Include="Volo.Abp.EntityFrameworkCore.PostgreSql" />
+		<Using Include="Volo.Abp.Modularity" />
+		<Using Include="Volo.Abp.Threading" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Microsoft.EntityFrameworkCore" />
+		<Using Include="Microsoft.EntityFrameworkCore.Metadata.Builders" />
+		<Using Include="Microsoft.Extensions.DependencyInjection" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="System.Reflection" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Frame.Domain.Authors" />
+		<Using Include="Frame.Domain.Books" />
+		<Using Include="Frame.Domain.Categories" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\bin\Debug\net8.0\Sample.Novel.Domain.deps.json
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\bin\Debug\net8.0\Sample.Novel.Domain.dll
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\bin\Debug\net8.0\Sample.Novel.Domain.pdb
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\Sample.Novel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\Sample.Novel.Domain.AssemblyInfoInputs.cache
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\Sample.Novel.Domain.AssemblyInfo.cs
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\Sample.Novel.Domain.csproj.CoreCompileInputs.cache
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\Sample.Novel.Domain.dll
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\refint\Sample.Novel.Domain.dll
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\Sample.Novel.Domain.pdb
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\ref\Sample.Novel.Domain.dll
+C:\02.GitHub\Sample.Novel\Sample.Novel.Domain\obj\Debug\net8.0\Sample.Novel.Domain.csproj.AssemblyReference.cache

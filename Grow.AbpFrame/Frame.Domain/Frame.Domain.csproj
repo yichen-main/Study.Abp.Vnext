@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<LangVersion>preview</LangVersion>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Volo.Abp.Ddd.Domain" Version="7.4.4" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Volo.Abp" />
+		<Using Include="Volo.Abp.Auditing" />
+		<Using Include="Volo.Abp.Data" />
+		<Using Include="Volo.Abp.DependencyInjection" />
+		<Using Include="Volo.Abp.Domain.Entities" />
+		<Using Include="Volo.Abp.Domain.Entities.Auditing" />
+		<Using Include="Volo.Abp.Domain.Repositories" />
+		<Using Include="Volo.Abp.Guids" />
+		<Using Include="Volo.Abp.Modularity" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Microsoft.Extensions.DependencyInjection" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Frame.Domain.Authors" />
+		<Using Include="Frame.Domain.Books" />
+		<Using Include="Frame.Domain.Categories" />
+	</ItemGroup>
+
+</Project>

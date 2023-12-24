@@ -1,0 +1,11 @@
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\bin\Debug\net8.0\Sample.Novel.EntityFrameworkCore.deps.json
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\bin\Debug\net8.0\Sample.Novel.EntityFrameworkCore.dll
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\bin\Debug\net8.0\Sample.Novel.EntityFrameworkCore.pdb
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\Sample.Novel.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\Sample.Novel.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\Sample.Novel.EntityFrameworkCore.AssemblyInfo.cs
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\Sample.Novel.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\Sample.Novel.EntityFrameworkCore.dll
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\refint\Sample.Novel.EntityFrameworkCore.dll
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\Sample.Novel.EntityFrameworkCore.pdb
+C:\02.GitHub\Sample.Novel\Sample.Novel.EntityFrameworkCore\obj\Debug\net8.0\ref\Sample.Novel.EntityFrameworkCore.dll
